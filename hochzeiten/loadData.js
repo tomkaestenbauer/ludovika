@@ -31,6 +31,11 @@ async function loadData() {
             document.getElementById('date').textContent = data.date;
         }
 
+        // Location
+        if (data.location) {
+            document.getElementById('location').textContent = data.location;
+        }
+
         // Angebotsnummer
         if (data.offerNumber) {
             document.getElementById('offerNumber').textContent = data.offerNumber;
