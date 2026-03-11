@@ -3,7 +3,7 @@
   command = "npm run build"
   
   # Output directory
-  publish = "dist"
+  publish = "_site"
 
 [build.environment]
   # Node version
