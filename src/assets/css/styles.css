@@ -439,7 +439,7 @@ footer {
     background-color: var(--color-primary);
     color: var(--color-bg);
     padding: var(--spacing-sm) 0 var(--spacing-xs);
-    margin-top: var(--spacing-xl);
+    margin-top: var(--spacing-lg);
 }
 
 footer .container {
