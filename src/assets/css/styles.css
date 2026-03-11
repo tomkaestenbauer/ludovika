@@ -118,7 +118,7 @@ section {
 }
 
 /* ===== NAVIGATION ===== */
-nav {
+nav.main-nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -1055,9 +1055,4 @@ footer .container {
     color: var(--color-bg);
     font-size: 0.85rem;
     opacity: 0.7;
-}
-
-.footer-links {
-    background: red;
-    padding: 20px;
 }
