@@ -455,8 +455,9 @@ footer .container {
 }
 
 .footer-links a {
+    color: #ffffff;
     font-size: 0.9rem;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .footer-links a:hover {
@@ -464,6 +465,7 @@ footer .container {
 }
 
 .copyright {
+    color: #ffffff;
     font-size: 0.85rem;
     opacity: 0.7;
 }
