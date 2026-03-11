@@ -989,3 +989,10 @@ MOBILE
 }
 
 }
+main {
+    display: block;
+    padding-bottom: var(--spacing-xl);
+}
+footer {
+    margin-top: var(--spacing-lg);
+}
